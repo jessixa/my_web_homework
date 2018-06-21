@@ -5543,4 +5543,10 @@ p.w3ls_para {
       left: 68% !important;
     }
 }
+.news_input {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-right: 40px;
+}
 /*-- //responsive media queries --*/
